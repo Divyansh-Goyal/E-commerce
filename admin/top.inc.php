@@ -33,7 +33,7 @@ if(isset($_SESSION['ADMIN_LOGIN']) && $_SESSION['ADMIN_LOGIN']!=''){
                <ul class="nav navbar-nav">
                   <li class="menu-title">Menu</li>
                   <li class="menu-item-has-children dropdown">
-                     <a href="categories.php" > Categories Master</a>
+                     <a href="Categories.php" > Categories Master</a>
                   </li>
                   <li class="menu-item-has-children dropdown">
                      <a href="product.php" > Product Master</a>
